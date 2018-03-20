@@ -1,0 +1,14 @@
+﻿  VanDerWaerden.cpp
+c:\users\aaron\downloads\vanderwaerden\vanderwaerden\vanderwaerden\vanderwaerden.cpp(10): error C2131: expression did not evaluate to a constant
+  c:\users\aaron\downloads\vanderwaerden\vanderwaerden\vanderwaerden\vanderwaerden.cpp(10): note: failure was caused by a read of a variable outside its lifetime
+  c:\users\aaron\downloads\vanderwaerden\vanderwaerden\vanderwaerden\vanderwaerden.cpp(10): note: see usage of 'R'
+c:\users\aaron\downloads\vanderwaerden\vanderwaerden\vanderwaerden\vanderwaerden.cpp(32): error C2109: subscript requires array or pointer type
+c:\users\aaron\downloads\vanderwaerden\vanderwaerden\vanderwaerden\vanderwaerden.cpp(39): error C2059: syntax error: '}'
+c:\users\aaron\downloads\vanderwaerden\vanderwaerden\vanderwaerden\vanderwaerden.cpp(40): error C2059: syntax error: '}'
+c:\users\aaron\downloads\vanderwaerden\vanderwaerden\vanderwaerden\vanderwaerden.cpp(37): error C2109: subscript requires array or pointer type
+c:\users\aaron\downloads\vanderwaerden\vanderwaerden\vanderwaerden\vanderwaerden.cpp(37): error C2059: syntax error: ';'
+c:\users\aaron\downloads\vanderwaerden\vanderwaerden\vanderwaerden\vanderwaerden.cpp(42): error C2059: syntax error: 'return'
+c:\users\aaron\downloads\vanderwaerden\vanderwaerden\vanderwaerden\vanderwaerden.cpp(43): error C2059: syntax error: '}'
+c:\users\aaron\downloads\vanderwaerden\vanderwaerden\vanderwaerden\vanderwaerden.cpp(43): error C2143: syntax error: missing ';' before '}'
+c:\users\aaron\downloads\vanderwaerden\vanderwaerden\vanderwaerden\vanderwaerden.cpp(45): error C2143: syntax error: missing ';' before '{'
+c:\users\aaron\downloads\vanderwaerden\vanderwaerden\vanderwaerden\vanderwaerden.cpp(45): error C2447: '{': missing function header (old-style formal list?)
